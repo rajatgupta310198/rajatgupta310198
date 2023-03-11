@@ -21,6 +21,6 @@ I am Rajat. Software engineer, working at Deliveroo in Core-Platforms teams. We 
 
 #### Reach Out
 - :postbox: rajat.gupta@deliveroo.com or rajatgupta310198@gmail.com
-- :telephone: [+91-7987197707)(tel:+91-7987197707)
+- :telephone: +91-7987197707
 - Follow me on medium @ [rajatgupta310198](https://medium.com/@rajatgupta310198)
 
