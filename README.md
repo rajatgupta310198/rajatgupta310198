@@ -13,7 +13,7 @@ I am Rajat. Software engineer, working at Deliveroo in Core-Platforms teams. We 
 | Software Engineer Inter   | Rober Gordon Univeristy, Aberdeen, UK  |
 
 
-#### Write ups
+#### Write ups :green_book:
 
  - [Stepping Towards Golang — The first Go program](https://medium.com/@rajatgupta310198/stepping-towards-golang-the-first-go-program-80531820e183)
  - [Generative Adversarial Networks — A simple introduction.](https://medium.com/@rajatgupta310198/generative-adversarial-networks-a-simple-introduction-4fd576ab14a)
