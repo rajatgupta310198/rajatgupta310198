@@ -5,12 +5,12 @@ I am Rajat. Software engineer, working at Deliveroo in Core-Platforms teams. We 
 
 #### Professional Experience 👨‍💻
 
-| Role                      | Org                                    |
-|--------------------------:|----------------------------------------|
-| Software Engineer II      | Deliveroo, Remote                      |
-| Lead Software Engineer    | Workex, India                          |
-| Software Engineer         | Workex, India                          |
-| Software Engineer Inter   | Rober Gordon Univeristy, Aberdeen, UK  |
+| Role                                 |                  Org                   |
+|-------------------------------------:|----------------------------------------|
+| Software Engineer II                 | Deliveroo, Remote                      |
+| Lead Software Engineer               | Workex, India                          |
+| Software Engineer                    | Workex, India                          |
+| Software Engineer Intern             | Rober Gordon Univeristy, Aberdeen, UK  |
 
 
 #### Write ups :green_book:
