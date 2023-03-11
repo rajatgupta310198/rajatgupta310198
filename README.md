@@ -11,3 +11,10 @@ I am Rajat. Working at Deliveroo in Core-Platforms teams. We are responsible for
 | Lead Software Engineer    | Workex, India                          |
 | Software Engineer         | Workex, India                          |
 | Software Engineer Inter   | Rober Gordon Univeristy, Aberdeen, UK  |
+
+
+
+
+#### Reach Out
+- rajat.gupta@deliveroo.com or rajatgupta310198@gmail.com
+- (+91-7987197707)[tel:+91-7987197707]
