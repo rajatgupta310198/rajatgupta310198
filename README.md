@@ -16,5 +16,5 @@ I am Rajat. Working at Deliveroo in Core-Platforms teams. We are responsible for
 
 
 #### Reach Out
-- rajat.gupta@deliveroo.com or rajatgupta310198@gmail.com
-- (+91-7987197707)[tel:+91-7987197707]
+- :postbox: rajat.gupta@deliveroo.com or rajatgupta310198@gmail.com
+- :telephone: [+91-7987197707](tel:+91-7987197707)
