@@ -1,7 +1,9 @@
-### Hi There!👋🏻
+## Hi there! 👋🏻
+
 I am Rajat. Working at Deliveroo in Core-Platforms teams. We are responsible for Networking, Edge, Compute (NEC) @ Deliveroo.
 
-Professional Experience
+
+#### Professional Experience 👨‍💻
 
 | Role                      | Org                                    |
 |--------------------------:|----------------------------------------|
